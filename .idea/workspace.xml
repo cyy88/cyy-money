@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="82e074ac-3aed-477c-a2ad-375f71f64e71" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/cyy-finance-admin-api/src/main/java/com/cyy/finance/admin/api/controller/AccountBookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-finance-admin-api/src/main/java/com/cyy/finance/admin/api/controller/CurrencyConfigController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-finance-admin-api/src/main/java/com/cyy/finance/admin/api/controller/DataDictionaryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-finance-admin-api/src/main/java/com/cyy/finance/admin/api/controller/SysRoleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-finance-biz/src/main/java/com/cyy/finance/biz/domain/AccountBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-finance-biz/src/main/java/com/cyy/finance/biz/domain/AccountBookField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-finance-biz/src/main/java/com/cyy/finance/biz/domain/CurrencyConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-finance-biz/src/main/java/com/cyy/finance/biz/domain/CurrencyConfigField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-finance-biz/src/main/java/com/cyy/finance/biz/domain/DataDictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-finance-biz/src/main/java/com/cyy/finance/biz/domain/DataDictionaryField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-finance-biz/src/main/java/com/cyy/finance/biz/domain/SysRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-finance-biz/src/main/java/com/cyy/finance/biz/domain/SysRoleBindMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-finance-biz/src/main/java/com/cyy/finance/biz/domain/SysRoleBindMenuField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-finance-biz/src/main/java/com/cyy/finance/biz/domain/SysRoleBindResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-finance-biz/src/main/java/com/cyy/finance/biz/domain/SysRoleBindResourceField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-finance-biz/src/main/java/com/cyy/finance/biz/domain/SysRoleField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-finance-biz/src/main/java/com/cyy/finance/biz/dto/form/AccountBookDisableForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-finance-biz/src/main/java/com/cyy/finance/biz/dto/form/AddAccountBookForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-finance-biz/src/main/java/com/cyy/finance/biz/dto/form/CreateCurrencyConfigForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-finance-biz/src/main/java/com/cyy/finance/biz/dto/form/CreateSysRoleForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-finance-biz/src/main/java/com/cyy/finance/biz/dto/form/DelCurrencyConfigForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-finance-biz/src/main/java/com/cyy/finance/biz/dto/form/DelForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-finance-biz/src/main/java/com/cyy/finance/biz/dto/form/ListAccountBookForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-finance-biz/src/main/java/com/cyy/finance/biz/dto/form/RoleBindMenuForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-finance-biz/src/main/java/com/cyy/finance/biz/dto/form/RoleBindResourceForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-finance-biz/src/main/java/com/cyy/finance/biz/dto/form/SubjectCalculateConfigForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-finance-biz/src/main/java/com/cyy/finance/biz/dto/form/UpdateAccountBookForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-finance-biz/src/main/java/com/cyy/finance/biz/dto/form/UpdateCurrencyConfigForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-finance-biz/src/main/java/com/cyy/finance/biz/dto/vo/DataDictionaryVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-finance-biz/src/main/java/com/cyy/finance/biz/dto/vo/GetAccountBookVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-finance-biz/src/main/java/com/cyy/finance/biz/dto/vo/GetCurrencyConfigVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-finance-biz/src/main/java/com/cyy/finance/biz/dto/vo/ListAccountBookVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-finance-biz/src/main/java/com/cyy/finance/biz/dto/vo/ListCurrencyConfigVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-finance-biz/src/main/java/com/cyy/finance/biz/dto/vo/MenuDataItemVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-finance-biz/src/main/java/com/cyy/finance/biz/enums/DataCodeCateEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-finance-biz/src/main/java/com/cyy/finance/biz/job/SysJobService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-finance-biz/src/main/java/com/cyy/finance/biz/mapper/AccountBookMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-finance-biz/src/main/java/com/cyy/finance/biz/mapper/CurrencyConfigMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-finance-biz/src/main/java/com/cyy/finance/biz/mapper/DataDictionaryMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-finance-biz/src/main/java/com/cyy/finance/biz/mapper/SysRoleBindMenuMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-finance-biz/src/main/java/com/cyy/finance/biz/mapper/SysRoleBindResourceMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-finance-biz/src/main/java/com/cyy/finance/biz/mapper/SysRoleMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-finance-biz/src/main/java/com/cyy/finance/biz/service/AccountBookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-finance-biz/src/main/java/com/cyy/finance/biz/service/CurrencyConfigService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-finance-biz/src/main/java/com/cyy/finance/biz/service/DataDictionaryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-finance-biz/src/main/java/com/cyy/finance/biz/service/SysRoleBindMenuService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-finance-biz/src/main/java/com/cyy/finance/biz/service/SysRoleBindResourceService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-finance-biz/src/main/java/com/cyy/finance/biz/service/SysRoleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-finance-biz/src/main/java/com/cyy/finance/biz/service/impl/AccountBookServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-finance-biz/src/main/java/com/cyy/finance/biz/service/impl/CurrencyConfigServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-finance-biz/src/main/java/com/cyy/finance/biz/service/impl/DataDictionaryServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-finance-biz/src/main/java/com/cyy/finance/biz/service/impl/SysRoleBindMenuServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-finance-biz/src/main/java/com/cyy/finance/biz/service/impl/SysRoleBindResourceServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-finance-biz/src/main/java/com/cyy/finance/biz/service/impl/SysRoleServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-finance-biz/src/main/resources/com/cyy/finance/biz/mapper/AccountBookMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-finance-biz/src/main/resources/com/cyy/finance/biz/mapper/CurrencyConfigMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-finance-biz/src/main/resources/com/cyy/finance/biz/mapper/DataDictionaryMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-finance-biz/src/main/resources/com/cyy/finance/biz/mapper/SysRoleBindMenuMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-finance-biz/src/main/resources/com/cyy/finance/biz/mapper/SysRoleBindResourceMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyy-finance-biz/src/main/resources/com/cyy/finance/biz/mapper/SysRoleMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cyy-finance-admin-api/logs/cyy-finance-admin-api.log" beforeDir="false" afterPath="$PROJECT_DIR$/cyy-finance-admin-api/logs/cyy-finance-admin-api.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cyy-finance-admin-api/logs/cyy-finance-admin-api.log.error" beforeDir="false" afterPath="$PROJECT_DIR$/cyy-finance-admin-api/logs/cyy-finance-admin-api.log.error" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cyy-finance-admin-api/src/main/resources/application-local.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cyy-finance-admin-api/src/main/resources/application-local.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cyy-finance-admin-api/target/classes/application-local.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cyy-finance-admin-api/target/classes/application-local.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cyy-finance-biz/src/main/java/com/cyy/finance/biz/config/ObjectConvertor.java" beforeDir="false" afterPath="$PROJECT_DIR$/cyy-finance-biz/src/main/java/com/cyy/finance/biz/config/ObjectConvertor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cyy-finance-biz/src/main/java/com/cyy/finance/biz/dto/form/SysResourceController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cyy-finance-biz/target/generated-sources/annotations/com/cyy/finance/biz/config/ObjectConvertorImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/cyy-finance-biz/target/generated-sources/annotations/com/cyy/finance/biz/config/ObjectConvertorImpl.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2h82acIfoNeSd7AYhcUJAXeN2lM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="82e074ac-3aed-477c-a2ad-375f71f64e71" name="变更" comment="" />
+      <created>1716961447449</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716961447449</updated>
+      <workItem from="1716961448697" duration="6000" />
+      <workItem from="1717031036582" duration="8000" />
+      <workItem from="1720783880291" duration="53000" />
+      <workItem from="1720784082840" duration="89000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

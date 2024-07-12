@@ -1,0 +1,1537 @@
+2024-06-29 11:16:45.121 [main] INFO  com.cyy.FinanceAdminApiApplication - Starting FinanceAdminApiApplication using Java 1.8.0_77 on LAPTOP-381P8JMI with PID 2296 (D:\财务软件代码\cyy-finance-admin-api\target\classes started by cyy in D:\财务软件代码\cyy-parent)
+2024-06-29 11:16:45.123 [main] DEBUG com.cyy.FinanceAdminApiApplication - Running with Spring Boot v2.7.4, Spring v5.3.23
+2024-06-29 11:16:45.124 [main] INFO  com.cyy.FinanceAdminApiApplication - The following 1 profile is active: "local"
+2024-06-29 11:16:46.866 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-06-29 11:16:46.866 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2024-06-29 11:16:47.044 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-06-29 11:16:48.339 [main] INFO  c.c.c.c.RedisTemplateDefaultConfig - RedisTemplateConfig init start ...
+2024-06-29 11:16:48.398 [main] INFO  c.c.c.c.RedisTemplateDefaultConfig - RedisTemplateConfig init end
+2024-06-29 11:16:48.592 [main] DEBUG c.c.f.a.a.c.AuthFilterConfig$$EnhancerBySpringCGLIB$$d90f578c - Filter 'authFilterConfig' configured for use
+2024-06-29 11:16:49.395 [main] INFO  org.redisson.Version - Redisson 3.13.6
+2024-06-29 11:16:50.319 [redisson-netty-4-21] INFO  o.r.c.p.MasterPubSubConnectionPool - 1 connections initialized for /117.72.42.243:6379
+2024-06-29 11:16:50.351 [redisson-netty-4-23] INFO  o.r.c.pool.MasterConnectionPool - 10 connections initialized for /117.72.42.243:6379
+2024-06-29 11:16:50.429 [main] INFO  c.c.c.config.WebClientDefaultConfig - WebClientDefaultConfig init start ...
+2024-06-29 11:16:50.523 [main] INFO  c.c.c.config.WebClientDefaultConfig - WebClientDefaultConfig init end
+2024-06-29 11:16:50.727 [main] INFO  com.cyy.commom.config.Swagger3Config - swaggerProperties: SwaggerProperties(enable=true, name=BAGE-FINANCE-ADMIN-API, version=0.0.1, description=BAGE-FINANCE-ADMIN-API 接口文档, pathMapping=null)
+2024-06-29 11:16:51.334 [main] INFO  com.cyy.FinanceAdminApiApplication - Started FinanceAdminApiApplication in 6.866 seconds (JVM running for 8.253)
+2024-06-29 11:21:09.129 [main] INFO  Test1 - Starting Test1 using Java 1.8.0_77 on LAPTOP-381P8JMI with PID 39704 (started by cyy in D:\财务软件代码\cyy-finance-admin-api)
+2024-06-29 11:21:09.130 [main] INFO  Test1 - The following 1 profile is active: "local"
+2024-06-29 11:21:12.718 [main] INFO  c.c.c.c.RedisTemplateDefaultConfig - RedisTemplateConfig init start ...
+2024-06-29 11:21:12.830 [main] INFO  c.c.c.c.RedisTemplateDefaultConfig - RedisTemplateConfig init end
+2024-06-29 11:21:15.270 [main] INFO  org.redisson.Version - Redisson 3.13.6
+2024-06-29 11:21:16.421 [redisson-netty-4-23] INFO  o.r.c.p.MasterPubSubConnectionPool - 1 connections initialized for /117.72.42.243:6379
+2024-06-29 11:21:16.421 [redisson-netty-4-13] INFO  o.r.c.pool.MasterConnectionPool - 10 connections initialized for /117.72.42.243:6379
+2024-06-29 11:21:16.508 [main] INFO  c.c.c.config.WebClientDefaultConfig - WebClientDefaultConfig init start ...
+2024-06-29 11:21:16.632 [main] INFO  c.c.c.config.WebClientDefaultConfig - WebClientDefaultConfig init end
+2024-06-29 11:21:17.170 [main] INFO  com.cyy.commom.config.Swagger3Config - swaggerProperties: SwaggerProperties(enable=true, name=BAGE-FINANCE-ADMIN-API, version=0.0.1, description=BAGE-FINANCE-ADMIN-API 接口文档, pathMapping=null)
+2024-06-29 11:21:18.233 [main] INFO  Test1 - Started Test1 in 9.56 seconds (JVM running for 10.778)
+2024-06-29 11:23:50.738 [main] INFO  Test1 - Starting Test1 using Java 1.8.0_77 on LAPTOP-381P8JMI with PID 3304 (started by cyy in D:\财务软件代码\cyy-finance-admin-api)
+2024-06-29 11:23:50.739 [main] INFO  Test1 - The following 1 profile is active: "local"
+2024-06-29 11:23:54.175 [main] INFO  c.c.c.c.RedisTemplateDefaultConfig - RedisTemplateConfig init start ...
+2024-06-29 11:23:54.252 [main] INFO  c.c.c.c.RedisTemplateDefaultConfig - RedisTemplateConfig init end
+2024-06-29 11:23:56.212 [main] INFO  org.redisson.Version - Redisson 3.13.6
+2024-06-29 11:23:57.321 [redisson-netty-4-17] INFO  o.r.c.pool.MasterConnectionPool - 10 connections initialized for /117.72.42.243:6379
+2024-06-29 11:23:57.321 [redisson-netty-4-23] INFO  o.r.c.p.MasterPubSubConnectionPool - 1 connections initialized for /117.72.42.243:6379
+2024-06-29 11:23:57.400 [main] INFO  c.c.c.config.WebClientDefaultConfig - WebClientDefaultConfig init start ...
+2024-06-29 11:23:57.501 [main] INFO  c.c.c.config.WebClientDefaultConfig - WebClientDefaultConfig init end
+2024-06-29 11:23:58.047 [main] INFO  com.cyy.commom.config.Swagger3Config - swaggerProperties: SwaggerProperties(enable=true, name=BAGE-FINANCE-ADMIN-API, version=0.0.1, description=BAGE-FINANCE-ADMIN-API 接口文档, pathMapping=null)
+2024-06-29 11:23:59.094 [main] INFO  Test1 - Started Test1 in 8.836 seconds (JVM running for 10.106)
+2024-06-29 11:27:49.381 [main] INFO  Test1 - Starting Test1 using Java 1.8.0_77 on LAPTOP-381P8JMI with PID 36884 (started by cyy in D:\财务软件代码\cyy-finance-admin-api)
+2024-06-29 11:27:49.381 [main] INFO  Test1 - The following 1 profile is active: "local"
+2024-06-29 11:27:53.304 [main] INFO  c.c.c.c.RedisTemplateDefaultConfig - RedisTemplateConfig init start ...
+2024-06-29 11:27:53.380 [main] INFO  c.c.c.c.RedisTemplateDefaultConfig - RedisTemplateConfig init end
+2024-06-29 11:27:55.469 [main] INFO  org.redisson.Version - Redisson 3.13.6
+2024-06-29 11:27:56.678 [redisson-netty-4-18] INFO  o.r.c.p.MasterPubSubConnectionPool - 1 connections initialized for /117.72.42.243:6379
+2024-06-29 11:27:56.678 [redisson-netty-4-20] INFO  o.r.c.pool.MasterConnectionPool - 10 connections initialized for /117.72.42.243:6379
+2024-06-29 11:27:56.798 [main] INFO  c.c.c.config.WebClientDefaultConfig - WebClientDefaultConfig init start ...
+2024-06-29 11:27:56.929 [main] INFO  c.c.c.config.WebClientDefaultConfig - WebClientDefaultConfig init end
+2024-06-29 11:27:57.543 [main] INFO  com.cyy.commom.config.Swagger3Config - swaggerProperties: SwaggerProperties(enable=true, name=BAGE-FINANCE-ADMIN-API, version=0.0.1, description=BAGE-FINANCE-ADMIN-API 接口文档, pathMapping=null)
+2024-06-29 11:27:58.893 [main] INFO  Test1 - Started Test1 in 10.072 seconds (JVM running for 11.622)
+2024-06-29 12:43:33.495 [redisson-netty-4-4] ERROR o.r.c.handler.ErrorsLoggingHandler - Exception occured. Channel: [id: 0xa12a2f5c, L:/192.168.88.102:55278 - R:/117.72.42.243:6379]
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 12:43:33.495 [redisson-netty-4-9] ERROR o.r.c.handler.ErrorsLoggingHandler - Exception occured. Channel: [id: 0x9e126cea, L:/192.168.88.102:55275 - R:/117.72.42.243:6379]
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 12:43:33.495 [redisson-netty-4-12] ERROR o.r.c.handler.ErrorsLoggingHandler - Exception occured. Channel: [id: 0xd27ad1e1, L:/192.168.88.102:55276 - R:/117.72.42.243:6379]
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 12:43:33.495 [redisson-netty-4-8] ERROR o.r.c.handler.ErrorsLoggingHandler - Exception occured. Channel: [id: 0x17a30217, L:/192.168.88.102:55284 - R:/117.72.42.243:6379]
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 12:43:33.495 [redisson-netty-4-10] ERROR o.r.c.handler.ErrorsLoggingHandler - Exception occured. Channel: [id: 0x5103f86c, L:/192.168.88.102:55283 - R:/117.72.42.243:6379]
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 12:43:33.495 [redisson-netty-4-7] ERROR o.r.c.handler.ErrorsLoggingHandler - Exception occured. Channel: [id: 0xaef6b4cd, L:/192.168.88.102:55277 - R:/117.72.42.243:6379]
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 12:43:33.495 [redisson-netty-4-2] ERROR o.r.c.handler.ErrorsLoggingHandler - Exception occured. Channel: [id: 0xa49daab6, L:/192.168.88.102:55282 - R:/117.72.42.243:6379]
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 12:43:33.495 [redisson-netty-4-3] ERROR o.r.c.handler.ErrorsLoggingHandler - Exception occured. Channel: [id: 0x5ac785c0, L:/192.168.88.102:55285 - R:/117.72.42.243:6379]
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 12:43:33.495 [redisson-netty-4-11] ERROR o.r.c.handler.ErrorsLoggingHandler - Exception occured. Channel: [id: 0xfa7d4acd, L:/192.168.88.102:55279 - R:/117.72.42.243:6379]
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 12:43:33.496 [redisson-netty-4-5] ERROR o.r.c.handler.ErrorsLoggingHandler - Exception occured. Channel: [id: 0x0b0b7c75, L:/192.168.88.102:55286 - R:/117.72.42.243:6379]
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 12:43:33.495 [redisson-netty-4-6] ERROR o.r.c.handler.ErrorsLoggingHandler - Exception occured. Channel: [id: 0xd0205621, L:/192.168.88.102:55281 - R:/117.72.42.243:6379]
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 12:58:28.372 [redisson-timer-6-1] ERROR o.r.c.handler.PingConnectionHandler - Unable to send PING command over channel: [id: 0x5103f86c, L:/192.168.88.102:55283 ! R:/117.72.42.243:6379]
+org.redisson.client.RedisTimeoutException: Command execution timeout for command: (PING), params: [], Redis client: [addr=redis://117.72.42.243:6379]
+	at org.redisson.client.RedisConnection.lambda$async$1(RedisConnection.java:207)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.run(HashedWheelTimer.java:715)
+	at io.netty.util.concurrent.ImmediateExecutor.execute(ImmediateExecutor.java:34)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.expire(HashedWheelTimer.java:703)
+	at io.netty.util.HashedWheelTimer$HashedWheelBucket.expireTimeouts(HashedWheelTimer.java:790)
+	at io.netty.util.HashedWheelTimer$Worker.run(HashedWheelTimer.java:503)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 12:58:28.373 [redisson-timer-6-1] ERROR o.r.c.handler.PingConnectionHandler - Unable to send PING command over channel: [id: 0x9e126cea, L:/192.168.88.102:55275 ! R:/117.72.42.243:6379]
+org.redisson.client.RedisTimeoutException: Command execution timeout for command: (PING), params: [], Redis client: [addr=redis://117.72.42.243:6379]
+	at org.redisson.client.RedisConnection.lambda$async$1(RedisConnection.java:207)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.run(HashedWheelTimer.java:715)
+	at io.netty.util.concurrent.ImmediateExecutor.execute(ImmediateExecutor.java:34)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.expire(HashedWheelTimer.java:703)
+	at io.netty.util.HashedWheelTimer$HashedWheelBucket.expireTimeouts(HashedWheelTimer.java:790)
+	at io.netty.util.HashedWheelTimer$Worker.run(HashedWheelTimer.java:503)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 12:58:28.374 [redisson-timer-6-1] ERROR o.r.c.handler.PingConnectionHandler - Unable to send PING command over channel: [id: 0xa12a2f5c, L:/192.168.88.102:55278 ! R:/117.72.42.243:6379]
+org.redisson.client.RedisTimeoutException: Command execution timeout for command: (PING), params: [], Redis client: [addr=redis://117.72.42.243:6379]
+	at org.redisson.client.RedisConnection.lambda$async$1(RedisConnection.java:207)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.run(HashedWheelTimer.java:715)
+	at io.netty.util.concurrent.ImmediateExecutor.execute(ImmediateExecutor.java:34)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.expire(HashedWheelTimer.java:703)
+	at io.netty.util.HashedWheelTimer$HashedWheelBucket.expireTimeouts(HashedWheelTimer.java:790)
+	at io.netty.util.HashedWheelTimer$Worker.run(HashedWheelTimer.java:503)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 12:58:28.374 [redisson-timer-6-1] ERROR o.r.c.handler.PingConnectionHandler - Unable to send PING command over channel: [id: 0x17a30217, L:/192.168.88.102:55284 ! R:/117.72.42.243:6379]
+org.redisson.client.RedisTimeoutException: Command execution timeout for command: (PING), params: [], Redis client: [addr=redis://117.72.42.243:6379]
+	at org.redisson.client.RedisConnection.lambda$async$1(RedisConnection.java:207)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.run(HashedWheelTimer.java:715)
+	at io.netty.util.concurrent.ImmediateExecutor.execute(ImmediateExecutor.java:34)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.expire(HashedWheelTimer.java:703)
+	at io.netty.util.HashedWheelTimer$HashedWheelBucket.expireTimeouts(HashedWheelTimer.java:790)
+	at io.netty.util.HashedWheelTimer$Worker.run(HashedWheelTimer.java:503)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 12:58:28.375 [redisson-timer-6-1] ERROR o.r.c.handler.PingConnectionHandler - Unable to send PING command over channel: [id: 0xaef6b4cd, L:/192.168.88.102:55277 ! R:/117.72.42.243:6379]
+org.redisson.client.RedisTimeoutException: Command execution timeout for command: (PING), params: [], Redis client: [addr=redis://117.72.42.243:6379]
+	at org.redisson.client.RedisConnection.lambda$async$1(RedisConnection.java:207)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.run(HashedWheelTimer.java:715)
+	at io.netty.util.concurrent.ImmediateExecutor.execute(ImmediateExecutor.java:34)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.expire(HashedWheelTimer.java:703)
+	at io.netty.util.HashedWheelTimer$HashedWheelBucket.expireTimeouts(HashedWheelTimer.java:790)
+	at io.netty.util.HashedWheelTimer$Worker.run(HashedWheelTimer.java:503)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 12:58:28.376 [redisson-timer-6-1] ERROR o.r.c.handler.PingConnectionHandler - Unable to send PING command over channel: [id: 0x5ac785c0, L:/192.168.88.102:55285 ! R:/117.72.42.243:6379]
+org.redisson.client.RedisTimeoutException: Command execution timeout for command: (PING), params: [], Redis client: [addr=redis://117.72.42.243:6379]
+	at org.redisson.client.RedisConnection.lambda$async$1(RedisConnection.java:207)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.run(HashedWheelTimer.java:715)
+	at io.netty.util.concurrent.ImmediateExecutor.execute(ImmediateExecutor.java:34)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.expire(HashedWheelTimer.java:703)
+	at io.netty.util.HashedWheelTimer$HashedWheelBucket.expireTimeouts(HashedWheelTimer.java:790)
+	at io.netty.util.HashedWheelTimer$Worker.run(HashedWheelTimer.java:503)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 12:58:28.376 [redisson-timer-6-1] ERROR o.r.c.handler.PingConnectionHandler - Unable to send PING command over channel: [id: 0x0b0b7c75, L:/192.168.88.102:55286 ! R:/117.72.42.243:6379]
+org.redisson.client.RedisTimeoutException: Command execution timeout for command: (PING), params: [], Redis client: [addr=redis://117.72.42.243:6379]
+	at org.redisson.client.RedisConnection.lambda$async$1(RedisConnection.java:207)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.run(HashedWheelTimer.java:715)
+	at io.netty.util.concurrent.ImmediateExecutor.execute(ImmediateExecutor.java:34)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.expire(HashedWheelTimer.java:703)
+	at io.netty.util.HashedWheelTimer$HashedWheelBucket.expireTimeouts(HashedWheelTimer.java:790)
+	at io.netty.util.HashedWheelTimer$Worker.run(HashedWheelTimer.java:503)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 12:58:28.376 [redisson-timer-6-1] ERROR o.r.c.handler.PingConnectionHandler - Unable to send PING command over channel: [id: 0xa49daab6, L:/192.168.88.102:55282 ! R:/117.72.42.243:6379]
+org.redisson.client.RedisTimeoutException: Command execution timeout for command: (PING), params: [], Redis client: [addr=redis://117.72.42.243:6379]
+	at org.redisson.client.RedisConnection.lambda$async$1(RedisConnection.java:207)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.run(HashedWheelTimer.java:715)
+	at io.netty.util.concurrent.ImmediateExecutor.execute(ImmediateExecutor.java:34)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.expire(HashedWheelTimer.java:703)
+	at io.netty.util.HashedWheelTimer$HashedWheelBucket.expireTimeouts(HashedWheelTimer.java:790)
+	at io.netty.util.HashedWheelTimer$Worker.run(HashedWheelTimer.java:503)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 12:58:28.377 [redisson-timer-6-1] ERROR o.r.c.handler.PingConnectionHandler - Unable to send PING command over channel: [id: 0xd0205621, L:/192.168.88.102:55281 ! R:/117.72.42.243:6379]
+org.redisson.client.RedisTimeoutException: Command execution timeout for command: (PING), params: [], Redis client: [addr=redis://117.72.42.243:6379]
+	at org.redisson.client.RedisConnection.lambda$async$1(RedisConnection.java:207)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.run(HashedWheelTimer.java:715)
+	at io.netty.util.concurrent.ImmediateExecutor.execute(ImmediateExecutor.java:34)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.expire(HashedWheelTimer.java:703)
+	at io.netty.util.HashedWheelTimer$HashedWheelBucket.expireTimeouts(HashedWheelTimer.java:790)
+	at io.netty.util.HashedWheelTimer$Worker.run(HashedWheelTimer.java:503)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 12:58:28.378 [redisson-timer-6-1] ERROR o.r.c.handler.PingConnectionHandler - Unable to send PING command over channel: [id: 0xd27ad1e1, L:/192.168.88.102:55276 ! R:/117.72.42.243:6379]
+org.redisson.client.RedisTimeoutException: Command execution timeout for command: (PING), params: [], Redis client: [addr=redis://117.72.42.243:6379]
+	at org.redisson.client.RedisConnection.lambda$async$1(RedisConnection.java:207)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.run(HashedWheelTimer.java:715)
+	at io.netty.util.concurrent.ImmediateExecutor.execute(ImmediateExecutor.java:34)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.expire(HashedWheelTimer.java:703)
+	at io.netty.util.HashedWheelTimer$HashedWheelBucket.expireTimeouts(HashedWheelTimer.java:790)
+	at io.netty.util.HashedWheelTimer$Worker.run(HashedWheelTimer.java:503)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 12:58:28.378 [redisson-timer-6-1] ERROR o.r.c.handler.PingConnectionHandler - Unable to send PING command over channel: [id: 0xfa7d4acd, L:/192.168.88.102:55279 ! R:/117.72.42.243:6379]
+org.redisson.client.RedisTimeoutException: Command execution timeout for command: (PING), params: [], Redis client: [addr=redis://117.72.42.243:6379]
+	at org.redisson.client.RedisConnection.lambda$async$1(RedisConnection.java:207)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.run(HashedWheelTimer.java:715)
+	at io.netty.util.concurrent.ImmediateExecutor.execute(ImmediateExecutor.java:34)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.expire(HashedWheelTimer.java:703)
+	at io.netty.util.HashedWheelTimer$HashedWheelBucket.expireTimeouts(HashedWheelTimer.java:790)
+	at io.netty.util.HashedWheelTimer$Worker.run(HashedWheelTimer.java:503)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 12:58:28.560 [redisson-netty-4-24] ERROR o.r.c.handler.ErrorsLoggingHandler - Exception occured. Channel: [id: 0xec09834e, L:/192.168.88.102:61657 - R:/117.72.42.243:6379]
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 12:58:28.560 [redisson-netty-4-18] ERROR o.r.c.handler.ErrorsLoggingHandler - Exception occured. Channel: [id: 0x817af24f, L:/192.168.88.102:61652 - R:/117.72.42.243:6379]
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 12:58:28.560 [redisson-netty-4-21] ERROR o.r.c.handler.ErrorsLoggingHandler - Exception occured. Channel: [id: 0x75af3230, L:/192.168.88.102:61655 - R:/117.72.42.243:6379]
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 12:58:28.560 [redisson-netty-4-15] ERROR o.r.c.handler.ErrorsLoggingHandler - Exception occured. Channel: [id: 0x46b987f9, L:/192.168.88.102:61649 - R:/117.72.42.243:6379]
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 12:58:28.560 [redisson-netty-4-20] ERROR o.r.c.handler.ErrorsLoggingHandler - Exception occured. Channel: [id: 0x174201a1, L:/192.168.88.102:61654 - R:/117.72.42.243:6379]
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 12:58:28.560 [redisson-netty-4-19] ERROR o.r.c.handler.ErrorsLoggingHandler - Exception occured. Channel: [id: 0xd8cc2137, L:/192.168.88.102:61653 - R:/117.72.42.243:6379]
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 12:58:28.561 [redisson-netty-4-22] ERROR o.r.c.handler.ErrorsLoggingHandler - Exception occured. Channel: [id: 0x7e4a851a, L:/192.168.88.102:61656 - R:/117.72.42.243:6379]
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 12:58:28.562 [redisson-netty-4-23] ERROR o.r.c.handler.ErrorsLoggingHandler - Exception occured. Channel: [id: 0xda6842c9, L:/192.168.88.102:61658 - R:/117.72.42.243:6379]
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 12:58:28.563 [redisson-netty-4-16] ERROR o.r.c.handler.ErrorsLoggingHandler - Exception occured. Channel: [id: 0xa51b0196, L:/192.168.88.102:61651 - R:/117.72.42.243:6379]
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 12:58:28.563 [redisson-netty-4-25] ERROR o.r.c.handler.ErrorsLoggingHandler - Exception occured. Channel: [id: 0x2a18d3b2, L:/192.168.88.102:61659 - R:/117.72.42.243:6379]
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 12:58:28.563 [redisson-netty-4-17] ERROR o.r.c.handler.ErrorsLoggingHandler - Exception occured. Channel: [id: 0xceca5633, L:/192.168.88.102:61650 - R:/117.72.42.243:6379]
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 12:58:58.428 [redisson-timer-6-1] ERROR o.r.c.handler.PingConnectionHandler - Unable to send PING command over channel: [id: 0x46b987f9, L:/192.168.88.102:61649 ! R:/117.72.42.243:6379]
+org.redisson.client.RedisTimeoutException: Command execution timeout for command: (PING), params: [], Redis client: [addr=redis://117.72.42.243:6379]
+	at org.redisson.client.RedisConnection.lambda$async$1(RedisConnection.java:207)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.run(HashedWheelTimer.java:715)
+	at io.netty.util.concurrent.ImmediateExecutor.execute(ImmediateExecutor.java:34)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.expire(HashedWheelTimer.java:703)
+	at io.netty.util.HashedWheelTimer$HashedWheelBucket.expireTimeouts(HashedWheelTimer.java:790)
+	at io.netty.util.HashedWheelTimer$Worker.run(HashedWheelTimer.java:503)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 12:58:58.429 [redisson-timer-6-1] ERROR o.r.c.handler.PingConnectionHandler - Unable to send PING command over channel: [id: 0xec09834e, L:/192.168.88.102:61657 ! R:/117.72.42.243:6379]
+org.redisson.client.RedisTimeoutException: Command execution timeout for command: (PING), params: [], Redis client: [addr=redis://117.72.42.243:6379]
+	at org.redisson.client.RedisConnection.lambda$async$1(RedisConnection.java:207)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.run(HashedWheelTimer.java:715)
+	at io.netty.util.concurrent.ImmediateExecutor.execute(ImmediateExecutor.java:34)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.expire(HashedWheelTimer.java:703)
+	at io.netty.util.HashedWheelTimer$HashedWheelBucket.expireTimeouts(HashedWheelTimer.java:790)
+	at io.netty.util.HashedWheelTimer$Worker.run(HashedWheelTimer.java:503)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 12:58:58.429 [redisson-timer-6-1] ERROR o.r.c.handler.PingConnectionHandler - Unable to send PING command over channel: [id: 0xda6842c9, L:/192.168.88.102:61658 ! R:/117.72.42.243:6379]
+org.redisson.client.RedisTimeoutException: Command execution timeout for command: (PING), params: [], Redis client: [addr=redis://117.72.42.243:6379]
+	at org.redisson.client.RedisConnection.lambda$async$1(RedisConnection.java:207)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.run(HashedWheelTimer.java:715)
+	at io.netty.util.concurrent.ImmediateExecutor.execute(ImmediateExecutor.java:34)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.expire(HashedWheelTimer.java:703)
+	at io.netty.util.HashedWheelTimer$HashedWheelBucket.expireTimeouts(HashedWheelTimer.java:790)
+	at io.netty.util.HashedWheelTimer$Worker.run(HashedWheelTimer.java:503)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 12:58:58.430 [redisson-timer-6-1] ERROR o.r.c.handler.PingConnectionHandler - Unable to send PING command over channel: [id: 0xceca5633, L:/192.168.88.102:61650 ! R:/117.72.42.243:6379]
+org.redisson.client.RedisTimeoutException: Command execution timeout for command: (PING), params: [], Redis client: [addr=redis://117.72.42.243:6379]
+	at org.redisson.client.RedisConnection.lambda$async$1(RedisConnection.java:207)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.run(HashedWheelTimer.java:715)
+	at io.netty.util.concurrent.ImmediateExecutor.execute(ImmediateExecutor.java:34)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.expire(HashedWheelTimer.java:703)
+	at io.netty.util.HashedWheelTimer$HashedWheelBucket.expireTimeouts(HashedWheelTimer.java:790)
+	at io.netty.util.HashedWheelTimer$Worker.run(HashedWheelTimer.java:503)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 12:58:58.430 [redisson-timer-6-1] ERROR o.r.c.handler.PingConnectionHandler - Unable to send PING command over channel: [id: 0xa51b0196, L:/192.168.88.102:61651 ! R:/117.72.42.243:6379]
+org.redisson.client.RedisTimeoutException: Command execution timeout for command: (PING), params: [], Redis client: [addr=redis://117.72.42.243:6379]
+	at org.redisson.client.RedisConnection.lambda$async$1(RedisConnection.java:207)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.run(HashedWheelTimer.java:715)
+	at io.netty.util.concurrent.ImmediateExecutor.execute(ImmediateExecutor.java:34)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.expire(HashedWheelTimer.java:703)
+	at io.netty.util.HashedWheelTimer$HashedWheelBucket.expireTimeouts(HashedWheelTimer.java:790)
+	at io.netty.util.HashedWheelTimer$Worker.run(HashedWheelTimer.java:503)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 12:58:58.431 [redisson-timer-6-1] ERROR o.r.c.handler.PingConnectionHandler - Unable to send PING command over channel: [id: 0x2a18d3b2, L:/192.168.88.102:61659 ! R:/117.72.42.243:6379]
+org.redisson.client.RedisTimeoutException: Command execution timeout for command: (PING), params: [], Redis client: [addr=redis://117.72.42.243:6379]
+	at org.redisson.client.RedisConnection.lambda$async$1(RedisConnection.java:207)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.run(HashedWheelTimer.java:715)
+	at io.netty.util.concurrent.ImmediateExecutor.execute(ImmediateExecutor.java:34)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.expire(HashedWheelTimer.java:703)
+	at io.netty.util.HashedWheelTimer$HashedWheelBucket.expireTimeouts(HashedWheelTimer.java:790)
+	at io.netty.util.HashedWheelTimer$Worker.run(HashedWheelTimer.java:503)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 12:58:58.432 [redisson-timer-6-1] ERROR o.r.c.handler.PingConnectionHandler - Unable to send PING command over channel: [id: 0x75af3230, L:/192.168.88.102:61655 ! R:/117.72.42.243:6379]
+org.redisson.client.RedisTimeoutException: Command execution timeout for command: (PING), params: [], Redis client: [addr=redis://117.72.42.243:6379]
+	at org.redisson.client.RedisConnection.lambda$async$1(RedisConnection.java:207)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.run(HashedWheelTimer.java:715)
+	at io.netty.util.concurrent.ImmediateExecutor.execute(ImmediateExecutor.java:34)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.expire(HashedWheelTimer.java:703)
+	at io.netty.util.HashedWheelTimer$HashedWheelBucket.expireTimeouts(HashedWheelTimer.java:790)
+	at io.netty.util.HashedWheelTimer$Worker.run(HashedWheelTimer.java:503)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 12:58:58.432 [redisson-timer-6-1] ERROR o.r.c.handler.PingConnectionHandler - Unable to send PING command over channel: [id: 0xd8cc2137, L:/192.168.88.102:61653 ! R:/117.72.42.243:6379]
+org.redisson.client.RedisTimeoutException: Command execution timeout for command: (PING), params: [], Redis client: [addr=redis://117.72.42.243:6379]
+	at org.redisson.client.RedisConnection.lambda$async$1(RedisConnection.java:207)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.run(HashedWheelTimer.java:715)
+	at io.netty.util.concurrent.ImmediateExecutor.execute(ImmediateExecutor.java:34)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.expire(HashedWheelTimer.java:703)
+	at io.netty.util.HashedWheelTimer$HashedWheelBucket.expireTimeouts(HashedWheelTimer.java:790)
+	at io.netty.util.HashedWheelTimer$Worker.run(HashedWheelTimer.java:503)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 12:58:58.434 [redisson-timer-6-1] ERROR o.r.c.handler.PingConnectionHandler - Unable to send PING command over channel: [id: 0x7e4a851a, L:/192.168.88.102:61656 ! R:/117.72.42.243:6379]
+org.redisson.client.RedisTimeoutException: Command execution timeout for command: (PING), params: [], Redis client: [addr=redis://117.72.42.243:6379]
+	at org.redisson.client.RedisConnection.lambda$async$1(RedisConnection.java:207)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.run(HashedWheelTimer.java:715)
+	at io.netty.util.concurrent.ImmediateExecutor.execute(ImmediateExecutor.java:34)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.expire(HashedWheelTimer.java:703)
+	at io.netty.util.HashedWheelTimer$HashedWheelBucket.expireTimeouts(HashedWheelTimer.java:790)
+	at io.netty.util.HashedWheelTimer$Worker.run(HashedWheelTimer.java:503)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 12:58:58.434 [redisson-timer-6-1] ERROR o.r.c.handler.PingConnectionHandler - Unable to send PING command over channel: [id: 0x174201a1, L:/192.168.88.102:61654 ! R:/117.72.42.243:6379]
+org.redisson.client.RedisTimeoutException: Command execution timeout for command: (PING), params: [], Redis client: [addr=redis://117.72.42.243:6379]
+	at org.redisson.client.RedisConnection.lambda$async$1(RedisConnection.java:207)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.run(HashedWheelTimer.java:715)
+	at io.netty.util.concurrent.ImmediateExecutor.execute(ImmediateExecutor.java:34)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.expire(HashedWheelTimer.java:703)
+	at io.netty.util.HashedWheelTimer$HashedWheelBucket.expireTimeouts(HashedWheelTimer.java:790)
+	at io.netty.util.HashedWheelTimer$Worker.run(HashedWheelTimer.java:503)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 12:58:58.434 [redisson-timer-6-1] ERROR o.r.c.handler.PingConnectionHandler - Unable to send PING command over channel: [id: 0x817af24f, L:/192.168.88.102:61652 ! R:/117.72.42.243:6379]
+org.redisson.client.RedisTimeoutException: Command execution timeout for command: (PING), params: [], Redis client: [addr=redis://117.72.42.243:6379]
+	at org.redisson.client.RedisConnection.lambda$async$1(RedisConnection.java:207)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.run(HashedWheelTimer.java:715)
+	at io.netty.util.concurrent.ImmediateExecutor.execute(ImmediateExecutor.java:34)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.expire(HashedWheelTimer.java:703)
+	at io.netty.util.HashedWheelTimer$HashedWheelBucket.expireTimeouts(HashedWheelTimer.java:790)
+	at io.netty.util.HashedWheelTimer$Worker.run(HashedWheelTimer.java:503)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 13:20:14.406 [redisson-netty-4-2] ERROR o.r.c.handler.ErrorsLoggingHandler - Exception occured. Channel: [id: 0x821ea238, L:/192.168.88.102:55998 - R:/117.72.42.243:6379]
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 13:20:14.406 [redisson-netty-4-4] ERROR o.r.c.handler.ErrorsLoggingHandler - Exception occured. Channel: [id: 0x65b7cd7f, L:/192.168.88.102:56002 - R:/117.72.42.243:6379]
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 13:20:14.406 [redisson-netty-4-9] ERROR o.r.c.handler.ErrorsLoggingHandler - Exception occured. Channel: [id: 0x8658bebe, L:/192.168.88.102:56000 - R:/117.72.42.243:6379]
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 13:20:14.406 [redisson-netty-4-5] ERROR o.r.c.handler.ErrorsLoggingHandler - Exception occured. Channel: [id: 0x25736ce1, L:/192.168.88.102:55997 - R:/117.72.42.243:6379]
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 13:20:14.406 [redisson-netty-4-8] ERROR o.r.c.handler.ErrorsLoggingHandler - Exception occured. Channel: [id: 0xfaaa6e8e, L:/192.168.88.102:56001 - R:/117.72.42.243:6379]
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 13:20:14.406 [redisson-netty-4-12] ERROR o.r.c.handler.ErrorsLoggingHandler - Exception occured. Channel: [id: 0x470932eb, L:/192.168.88.102:55999 - R:/117.72.42.243:6379]
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 13:20:14.406 [redisson-netty-4-10] ERROR o.r.c.handler.ErrorsLoggingHandler - Exception occured. Channel: [id: 0xfa510b5d, L:/192.168.88.102:56005 - R:/117.72.42.243:6379]
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 13:20:14.406 [redisson-netty-4-6] ERROR o.r.c.handler.ErrorsLoggingHandler - Exception occured. Channel: [id: 0x457e2862, L:/192.168.88.102:55996 - R:/117.72.42.243:6379]
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 13:20:14.406 [redisson-netty-4-11] ERROR o.r.c.handler.ErrorsLoggingHandler - Exception occured. Channel: [id: 0xa87d3f04, L:/192.168.88.102:56006 - R:/117.72.42.243:6379]
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 13:20:14.406 [redisson-netty-4-7] ERROR o.r.c.handler.ErrorsLoggingHandler - Exception occured. Channel: [id: 0xe6af5de2, L:/192.168.88.102:56004 - R:/117.72.42.243:6379]
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 13:20:14.406 [redisson-netty-4-3] ERROR o.r.c.handler.ErrorsLoggingHandler - Exception occured. Channel: [id: 0xf3a70627, L:/192.168.88.102:56003 - R:/117.72.42.243:6379]
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 13:20:33.471 [main] INFO  Test1 - Starting Test1 using Java 1.8.0_77 on LAPTOP-381P8JMI with PID 33884 (started by cyy in D:\财务软件代码\cyy-finance-admin-api)
+2024-06-29 13:20:33.472 [main] INFO  Test1 - The following 1 profile is active: "local"
+2024-06-29 13:20:37.960 [main] INFO  c.c.c.c.RedisTemplateDefaultConfig - RedisTemplateConfig init start ...
+2024-06-29 13:20:38.056 [main] INFO  c.c.c.c.RedisTemplateDefaultConfig - RedisTemplateConfig init end
+2024-06-29 13:20:40.594 [main] INFO  org.redisson.Version - Redisson 3.13.6
+2024-06-29 13:20:41.860 [redisson-netty-4-23] INFO  o.r.c.p.MasterPubSubConnectionPool - 1 connections initialized for /117.72.42.243:6379
+2024-06-29 13:20:41.859 [redisson-netty-4-22] INFO  o.r.c.pool.MasterConnectionPool - 10 connections initialized for /117.72.42.243:6379
+2024-06-29 13:20:41.975 [main] INFO  c.c.c.config.WebClientDefaultConfig - WebClientDefaultConfig init start ...
+2024-06-29 13:20:42.139 [main] INFO  c.c.c.config.WebClientDefaultConfig - WebClientDefaultConfig init end
+2024-06-29 13:20:42.799 [main] INFO  com.cyy.commom.config.Swagger3Config - swaggerProperties: SwaggerProperties(enable=true, name=BAGE-FINANCE-ADMIN-API, version=0.0.1, description=BAGE-FINANCE-ADMIN-API 接口文档, pathMapping=null)
+2024-06-29 13:20:44.105 [main] INFO  Test1 - Started Test1 in 11.294 seconds (JVM running for 12.743)
+2024-06-29 13:47:52.681 [main] INFO  Test1 - Starting Test1 using Java 1.8.0_77 on LAPTOP-381P8JMI with PID 22584 (started by cyy in D:\财务软件代码\cyy-finance-admin-api)
+2024-06-29 13:47:52.682 [main] INFO  Test1 - The following 1 profile is active: "local"
+2024-06-29 13:47:56.070 [main] INFO  c.c.c.c.RedisTemplateDefaultConfig - RedisTemplateConfig init start ...
+2024-06-29 13:47:56.134 [main] INFO  c.c.c.c.RedisTemplateDefaultConfig - RedisTemplateConfig init end
+2024-06-29 13:47:58.069 [main] INFO  org.redisson.Version - Redisson 3.13.6
+2024-06-29 13:47:59.193 [redisson-netty-4-23] INFO  o.r.c.p.MasterPubSubConnectionPool - 1 connections initialized for /117.72.42.243:6379
+2024-06-29 13:47:59.193 [redisson-netty-4-20] INFO  o.r.c.pool.MasterConnectionPool - 10 connections initialized for /117.72.42.243:6379
+2024-06-29 13:47:59.287 [main] INFO  c.c.c.config.WebClientDefaultConfig - WebClientDefaultConfig init start ...
+2024-06-29 13:47:59.387 [main] INFO  c.c.c.config.WebClientDefaultConfig - WebClientDefaultConfig init end
+2024-06-29 13:47:59.927 [main] INFO  com.cyy.commom.config.Swagger3Config - swaggerProperties: SwaggerProperties(enable=true, name=BAGE-FINANCE-ADMIN-API, version=0.0.1, description=BAGE-FINANCE-ADMIN-API 接口文档, pathMapping=null)
+2024-06-29 13:48:00.965 [main] INFO  Test1 - Started Test1 in 8.762 seconds (JVM running for 9.977)
+2024-06-29 14:15:39.789 [main] INFO  Test1 - Starting Test1 using Java 1.8.0_77 on LAPTOP-381P8JMI with PID 8700 (started by cyy in D:\财务软件代码\cyy-finance-admin-api)
+2024-06-29 14:15:39.790 [main] INFO  Test1 - The following 1 profile is active: "local"
+2024-06-29 14:15:43.158 [main] INFO  c.c.c.c.RedisTemplateDefaultConfig - RedisTemplateConfig init start ...
+2024-06-29 14:15:43.225 [main] INFO  c.c.c.c.RedisTemplateDefaultConfig - RedisTemplateConfig init end
+2024-06-29 14:15:45.276 [main] INFO  org.redisson.Version - Redisson 3.13.6
+2024-06-29 14:15:46.402 [redisson-netty-4-16] INFO  o.r.c.pool.MasterConnectionPool - 10 connections initialized for /117.72.42.243:6379
+2024-06-29 14:15:46.402 [redisson-netty-4-15] INFO  o.r.c.p.MasterPubSubConnectionPool - 1 connections initialized for /117.72.42.243:6379
+2024-06-29 14:15:46.491 [main] INFO  c.c.c.config.WebClientDefaultConfig - WebClientDefaultConfig init start ...
+2024-06-29 14:15:46.588 [main] INFO  c.c.c.config.WebClientDefaultConfig - WebClientDefaultConfig init end
+2024-06-29 14:15:47.109 [main] INFO  com.cyy.commom.config.Swagger3Config - swaggerProperties: SwaggerProperties(enable=true, name=BAGE-FINANCE-ADMIN-API, version=0.0.1, description=BAGE-FINANCE-ADMIN-API 接口文档, pathMapping=null)
+2024-06-29 14:15:48.235 [main] INFO  Test1 - Started Test1 in 8.914 seconds (JVM running for 10.148)
+2024-06-29 14:17:52.262 [main] INFO  Test1 - Starting Test1 using Java 1.8.0_77 on LAPTOP-381P8JMI with PID 38616 (started by cyy in D:\财务软件代码\cyy-finance-admin-api)
+2024-06-29 14:17:52.263 [main] INFO  Test1 - The following 1 profile is active: "local"
+2024-06-29 14:17:53.671 [main] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com/cyy/finance/biz/mapper/**.xml]' package. Please check your configuration.
+2024-06-29 14:17:55.792 [main] INFO  c.c.c.c.RedisTemplateDefaultConfig - RedisTemplateConfig init start ...
+2024-06-29 14:17:55.860 [main] INFO  c.c.c.c.RedisTemplateDefaultConfig - RedisTemplateConfig init end
+2024-06-29 14:17:56.220 [main] WARN  o.s.w.c.s.GenericWebApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'loginController': Unsatisfied dependency expressed through field 'memberLoginService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'memberLoginServiceImpl' defined in file [D:\财务软件代码\cyy-finance-biz\target\classes\com\cyy\finance\biz\service\impl\MemberLoginServiceImpl.class]: Unsatisfied dependency expressed through constructor parameter 3; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'memberBindPhoneServiceImpl' defined in file [D:\财务软件代码\cyy-finance-biz\target\classes\com\cyy\finance\biz\service\impl\MemberBindPhoneServiceImpl.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.cyy.finance.biz.mapper.MemberBindPhoneMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}
+2024-06-29 14:17:56.283 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Parameter 0 of constructor in com.cyy.finance.biz.service.impl.MemberBindPhoneServiceImpl required a bean of type 'com.cyy.finance.biz.mapper.MemberBindPhoneMapper' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.cyy.finance.biz.mapper.MemberBindPhoneMapper' in your configuration.
+
+2024-06-29 14:17:56.286 [main] ERROR o.s.test.context.TestContextManager - Caught exception while allowing TestExecutionListener [org.springframework.test.context.web.ServletTestExecutionListener@1b1cfb87] to prepare test instance [Test1@23f60b7d]
+java.lang.IllegalStateException: Failed to load ApplicationContext
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:98)
+	at org.springframework.test.context.support.DefaultTestContext.getApplicationContext(DefaultTestContext.java:124)
+	at org.springframework.test.context.web.ServletTestExecutionListener.setUpRequestContextIfNecessary(ServletTestExecutionListener.java:190)
+	at org.springframework.test.context.web.ServletTestExecutionListener.prepareTestInstance(ServletTestExecutionListener.java:132)
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:248)
+	at org.springframework.test.context.junit.jupiter.SpringExtension.postProcessTestInstance(SpringExtension.java:138)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$invokeTestInstancePostProcessors$8(ClassBasedTestDescriptor.java:363)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.executeAndMaskThrowable(ClassBasedTestDescriptor.java:368)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$invokeTestInstancePostProcessors$9(ClassBasedTestDescriptor.java:363)
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:193)
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:175)
+	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1374)
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:481)
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:471)
+	at java.util.stream.StreamSpliterators$WrappingSpliterator.forEachRemaining(StreamSpliterators.java:312)
+	at java.util.stream.Streams$ConcatSpliterator.forEachRemaining(Streams.java:743)
+	at java.util.stream.Streams$ConcatSpliterator.forEachRemaining(Streams.java:742)
+	at java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:580)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.invokeTestInstancePostProcessors(ClassBasedTestDescriptor.java:362)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$instantiateAndPostProcessTestInstance$6(ClassBasedTestDescriptor.java:283)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.instantiateAndPostProcessTestInstance(ClassBasedTestDescriptor.java:282)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$testInstancesProvider$4(ClassBasedTestDescriptor.java:272)
+	at java.util.Optional.orElseGet(Optional.java:267)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$testInstancesProvider$5(ClassBasedTestDescriptor.java:271)
+	at org.junit.jupiter.engine.execution.TestInstancesProvider.getTestInstances(TestInstancesProvider.java:31)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$prepare$0(TestMethodTestDescriptor.java:102)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.prepare(TestMethodTestDescriptor.java:101)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.prepare(TestMethodTestDescriptor.java:66)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$prepare$2(NodeTestTask.java:123)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.prepare(NodeTestTask.java:123)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:90)
+	at java.util.ArrayList.forEach(ArrayList.java:1249)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at java.util.ArrayList.forEach(ArrayList.java:1249)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:107)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:88)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:54)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:67)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:52)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:114)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:86)
+	at org.junit.platform.launcher.core.DefaultLauncherSession$DelegatingLauncher.execute(DefaultLauncherSession.java:86)
+	at org.junit.platform.launcher.core.SessionPerRequestLauncher.execute(SessionPerRequestLauncher.java:53)
+	at com.intellij.junit5.JUnit5IdeaTestRunner.startRunnerWithArgs(JUnit5IdeaTestRunner.java:71)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater$1.execute(IdeaTestRunner.java:38)
+	at com.intellij.rt.execution.junit.TestsRepeater.repeat(TestsRepeater.java:11)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:35)
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:235)
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:54)
+Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'loginController': Unsatisfied dependency expressed through field 'memberLoginService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'memberLoginServiceImpl' defined in file [D:\财务软件代码\cyy-finance-biz\target\classes\com\cyy\finance\biz\service\impl\MemberLoginServiceImpl.class]: Unsatisfied dependency expressed through constructor parameter 3; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'memberBindPhoneServiceImpl' defined in file [D:\财务软件代码\cyy-finance-biz\target\classes\com\cyy\finance\biz\service\impl\MemberBindPhoneServiceImpl.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.cyy.finance.biz.mapper.MemberBindPhoneMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:659)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:639)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:119)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:399)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1431)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:619)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:955)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:918)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:734)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:408)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308)
+	at org.springframework.boot.test.context.SpringBootContextLoader.loadContext(SpringBootContextLoader.java:132)
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContextInternal(DefaultCacheAwareContextLoaderDelegate.java:141)
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:90)
+	... 71 common frames omitted
+Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'memberLoginServiceImpl' defined in file [D:\财务软件代码\cyy-finance-biz\target\classes\com\cyy\finance\biz\service\impl\MemberLoginServiceImpl.class]: Unsatisfied dependency expressed through constructor parameter 3; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'memberBindPhoneServiceImpl' defined in file [D:\财务软件代码\cyy-finance-biz\target\classes\com\cyy\finance\biz\service\impl\MemberBindPhoneServiceImpl.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.cyy.finance.biz.mapper.MemberBindPhoneMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:800)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:229)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1372)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1222)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1391)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1311)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:656)
+	... 90 common frames omitted
+Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'memberBindPhoneServiceImpl' defined in file [D:\财务软件代码\cyy-finance-biz\target\classes\com\cyy\finance\biz\service\impl\MemberBindPhoneServiceImpl.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.cyy.finance.biz.mapper.MemberBindPhoneMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:800)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:229)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1372)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1222)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1391)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1311)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:887)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:791)
+	... 103 common frames omitted
+Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.cyy.finance.biz.mapper.MemberBindPhoneMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.raiseNoMatchingBeanFound(DefaultListableBeanFactory.java:1801)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1357)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1311)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:887)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:791)
+	... 117 common frames omitted
+2024-06-29 14:19:07.963 [main] INFO  Test1 - Starting Test1 using Java 1.8.0_77 on LAPTOP-381P8JMI with PID 17176 (started by cyy in D:\财务软件代码\cyy-finance-admin-api)
+2024-06-29 14:19:07.964 [main] INFO  Test1 - The following 1 profile is active: "local"
+2024-06-29 14:19:11.300 [main] INFO  c.c.c.c.RedisTemplateDefaultConfig - RedisTemplateConfig init start ...
+2024-06-29 14:19:11.365 [main] INFO  c.c.c.c.RedisTemplateDefaultConfig - RedisTemplateConfig init end
+2024-06-29 14:19:13.447 [main] INFO  org.redisson.Version - Redisson 3.13.6
+2024-06-29 14:19:14.589 [redisson-netty-4-14] INFO  o.r.c.p.MasterPubSubConnectionPool - 1 connections initialized for /117.72.42.243:6379
+2024-06-29 14:19:14.637 [redisson-netty-4-23] INFO  o.r.c.pool.MasterConnectionPool - 10 connections initialized for /117.72.42.243:6379
+2024-06-29 14:19:14.730 [main] INFO  c.c.c.config.WebClientDefaultConfig - WebClientDefaultConfig init start ...
+2024-06-29 14:19:14.859 [main] INFO  c.c.c.config.WebClientDefaultConfig - WebClientDefaultConfig init end
+2024-06-29 14:19:15.420 [main] INFO  com.cyy.commom.config.Swagger3Config - swaggerProperties: SwaggerProperties(enable=true, name=BAGE-FINANCE-ADMIN-API, version=0.0.1, description=BAGE-FINANCE-ADMIN-API 接口文档, pathMapping=null)
+2024-06-29 14:19:16.509 [main] INFO  Test1 - Started Test1 in 9.037 seconds (JVM running for 10.296)
+2024-06-29 14:33:32.491 [main] INFO  Test1 - Starting Test1 using Java 1.8.0_77 on LAPTOP-381P8JMI with PID 21200 (started by cyy in D:\财务软件代码\cyy-finance-admin-api)
+2024-06-29 14:33:32.491 [main] INFO  Test1 - The following 1 profile is active: "local"
+2024-06-29 14:33:33.801 [main] WARN  o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[./com/cyy/finance/biz/mapper/*.xml]' package. Please check your configuration.
+2024-06-29 14:33:35.896 [main] INFO  c.c.c.c.RedisTemplateDefaultConfig - RedisTemplateConfig init start ...
+2024-06-29 14:33:35.966 [main] INFO  c.c.c.c.RedisTemplateDefaultConfig - RedisTemplateConfig init end
+2024-06-29 14:33:36.382 [main] WARN  o.s.w.c.s.GenericWebApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'loginController': Unsatisfied dependency expressed through field 'memberLoginService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'memberLoginServiceImpl' defined in file [D:\财务软件代码\cyy-finance-biz\target\classes\com\cyy\finance\biz\service\impl\MemberLoginServiceImpl.class]: Unsatisfied dependency expressed through constructor parameter 3; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'memberBindPhoneServiceImpl' defined in file [D:\财务软件代码\cyy-finance-biz\target\classes\com\cyy\finance\biz\service\impl\MemberBindPhoneServiceImpl.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.cyy.finance.biz.mapper.MemberBindPhoneMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}
+2024-06-29 14:33:36.434 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Parameter 0 of constructor in com.cyy.finance.biz.service.impl.MemberBindPhoneServiceImpl required a bean of type 'com.cyy.finance.biz.mapper.MemberBindPhoneMapper' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.cyy.finance.biz.mapper.MemberBindPhoneMapper' in your configuration.
+
+2024-06-29 14:33:36.438 [main] ERROR o.s.test.context.TestContextManager - Caught exception while allowing TestExecutionListener [org.springframework.test.context.web.ServletTestExecutionListener@1b1cfb87] to prepare test instance [Test1@23f60b7d]
+java.lang.IllegalStateException: Failed to load ApplicationContext
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:98)
+	at org.springframework.test.context.support.DefaultTestContext.getApplicationContext(DefaultTestContext.java:124)
+	at org.springframework.test.context.web.ServletTestExecutionListener.setUpRequestContextIfNecessary(ServletTestExecutionListener.java:190)
+	at org.springframework.test.context.web.ServletTestExecutionListener.prepareTestInstance(ServletTestExecutionListener.java:132)
+	at org.springframework.test.context.TestContextManager.prepareTestInstance(TestContextManager.java:248)
+	at org.springframework.test.context.junit.jupiter.SpringExtension.postProcessTestInstance(SpringExtension.java:138)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$invokeTestInstancePostProcessors$8(ClassBasedTestDescriptor.java:363)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.executeAndMaskThrowable(ClassBasedTestDescriptor.java:368)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$invokeTestInstancePostProcessors$9(ClassBasedTestDescriptor.java:363)
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:193)
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:175)
+	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1374)
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:481)
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:471)
+	at java.util.stream.StreamSpliterators$WrappingSpliterator.forEachRemaining(StreamSpliterators.java:312)
+	at java.util.stream.Streams$ConcatSpliterator.forEachRemaining(Streams.java:743)
+	at java.util.stream.Streams$ConcatSpliterator.forEachRemaining(Streams.java:742)
+	at java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:580)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.invokeTestInstancePostProcessors(ClassBasedTestDescriptor.java:362)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$instantiateAndPostProcessTestInstance$6(ClassBasedTestDescriptor.java:283)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.instantiateAndPostProcessTestInstance(ClassBasedTestDescriptor.java:282)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$testInstancesProvider$4(ClassBasedTestDescriptor.java:272)
+	at java.util.Optional.orElseGet(Optional.java:267)
+	at org.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.lambda$testInstancesProvider$5(ClassBasedTestDescriptor.java:271)
+	at org.junit.jupiter.engine.execution.TestInstancesProvider.getTestInstances(TestInstancesProvider.java:31)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$prepare$0(TestMethodTestDescriptor.java:102)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.prepare(TestMethodTestDescriptor.java:101)
+	at org.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.prepare(TestMethodTestDescriptor.java:66)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$prepare$2(NodeTestTask.java:123)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.prepare(NodeTestTask.java:123)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:90)
+	at java.util.ArrayList.forEach(ArrayList.java:1249)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at java.util.ArrayList.forEach(ArrayList.java:1249)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)
+	at org.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)
+	at org.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)
+	at org.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)
+	at org.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)
+	at org.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:107)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:88)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:54)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:67)
+	at org.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:52)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:114)
+	at org.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:86)
+	at org.junit.platform.launcher.core.DefaultLauncherSession$DelegatingLauncher.execute(DefaultLauncherSession.java:86)
+	at org.junit.platform.launcher.core.SessionPerRequestLauncher.execute(SessionPerRequestLauncher.java:53)
+	at com.intellij.junit5.JUnit5IdeaTestRunner.startRunnerWithArgs(JUnit5IdeaTestRunner.java:71)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater$1.execute(IdeaTestRunner.java:38)
+	at com.intellij.rt.execution.junit.TestsRepeater.repeat(TestsRepeater.java:11)
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:35)
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:235)
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:54)
+Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'loginController': Unsatisfied dependency expressed through field 'memberLoginService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'memberLoginServiceImpl' defined in file [D:\财务软件代码\cyy-finance-biz\target\classes\com\cyy\finance\biz\service\impl\MemberLoginServiceImpl.class]: Unsatisfied dependency expressed through constructor parameter 3; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'memberBindPhoneServiceImpl' defined in file [D:\财务软件代码\cyy-finance-biz\target\classes\com\cyy\finance\biz\service\impl\MemberBindPhoneServiceImpl.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.cyy.finance.biz.mapper.MemberBindPhoneMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:659)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:639)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:119)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:399)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1431)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:619)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:955)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:918)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:734)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:408)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308)
+	at org.springframework.boot.test.context.SpringBootContextLoader.loadContext(SpringBootContextLoader.java:132)
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContextInternal(DefaultCacheAwareContextLoaderDelegate.java:141)
+	at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext(DefaultCacheAwareContextLoaderDelegate.java:90)
+	... 71 common frames omitted
+Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'memberLoginServiceImpl' defined in file [D:\财务软件代码\cyy-finance-biz\target\classes\com\cyy\finance\biz\service\impl\MemberLoginServiceImpl.class]: Unsatisfied dependency expressed through constructor parameter 3; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'memberBindPhoneServiceImpl' defined in file [D:\财务软件代码\cyy-finance-biz\target\classes\com\cyy\finance\biz\service\impl\MemberBindPhoneServiceImpl.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.cyy.finance.biz.mapper.MemberBindPhoneMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:800)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:229)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1372)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1222)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1391)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1311)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:656)
+	... 90 common frames omitted
+Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'memberBindPhoneServiceImpl' defined in file [D:\财务软件代码\cyy-finance-biz\target\classes\com\cyy\finance\biz\service\impl\MemberBindPhoneServiceImpl.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.cyy.finance.biz.mapper.MemberBindPhoneMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:800)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:229)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1372)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1222)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1391)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1311)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:887)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:791)
+	... 103 common frames omitted
+Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.cyy.finance.biz.mapper.MemberBindPhoneMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.raiseNoMatchingBeanFound(DefaultListableBeanFactory.java:1801)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1357)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1311)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:887)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:791)
+	... 117 common frames omitted
+2024-06-29 20:43:01.625 [redisson-timer-6-1] ERROR o.r.c.handler.PingConnectionHandler - Unable to send PING command over channel: [id: 0xef537f8b, L:/192.168.88.102:61690 - R:/117.72.42.243:6379]
+org.redisson.client.RedisTimeoutException: Command execution timeout for command: (PING), params: [], Redis client: [addr=redis://117.72.42.243:6379]
+	at org.redisson.client.RedisConnection.lambda$async$1(RedisConnection.java:207)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.run(HashedWheelTimer.java:715)
+	at io.netty.util.concurrent.ImmediateExecutor.execute(ImmediateExecutor.java:34)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.expire(HashedWheelTimer.java:703)
+	at io.netty.util.HashedWheelTimer$HashedWheelBucket.expireTimeouts(HashedWheelTimer.java:790)
+	at io.netty.util.HashedWheelTimer$Worker.run(HashedWheelTimer.java:503)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 20:43:01.628 [redisson-timer-6-1] ERROR o.r.c.handler.PingConnectionHandler - Unable to send PING command over channel: [id: 0xe7521c87, L:/192.168.88.102:61687 - R:/117.72.42.243:6379]
+org.redisson.client.RedisTimeoutException: Command execution timeout for command: (PING), params: [], Redis client: [addr=redis://117.72.42.243:6379]
+	at org.redisson.client.RedisConnection.lambda$async$1(RedisConnection.java:207)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.run(HashedWheelTimer.java:715)
+	at io.netty.util.concurrent.ImmediateExecutor.execute(ImmediateExecutor.java:34)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.expire(HashedWheelTimer.java:703)
+	at io.netty.util.HashedWheelTimer$HashedWheelBucket.expireTimeouts(HashedWheelTimer.java:790)
+	at io.netty.util.HashedWheelTimer$Worker.run(HashedWheelTimer.java:503)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 20:43:01.628 [redisson-timer-6-1] ERROR o.r.c.handler.PingConnectionHandler - Unable to send PING command over channel: [id: 0x32d16a42, L:/192.168.88.102:61684 - R:/117.72.42.243:6379]
+org.redisson.client.RedisTimeoutException: Command execution timeout for command: (PING), params: [], Redis client: [addr=redis://117.72.42.243:6379]
+	at org.redisson.client.RedisConnection.lambda$async$1(RedisConnection.java:207)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.run(HashedWheelTimer.java:715)
+	at io.netty.util.concurrent.ImmediateExecutor.execute(ImmediateExecutor.java:34)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.expire(HashedWheelTimer.java:703)
+	at io.netty.util.HashedWheelTimer$HashedWheelBucket.expireTimeouts(HashedWheelTimer.java:790)
+	at io.netty.util.HashedWheelTimer$Worker.run(HashedWheelTimer.java:503)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 20:43:01.635 [redisson-timer-6-1] ERROR o.r.c.handler.PingConnectionHandler - Unable to send PING command over channel: [id: 0xb9f827c8, L:/192.168.88.102:61689 - R:/117.72.42.243:6379]
+org.redisson.client.RedisTimeoutException: Command execution timeout for command: (PING), params: [], Redis client: [addr=redis://117.72.42.243:6379]
+	at org.redisson.client.RedisConnection.lambda$async$1(RedisConnection.java:207)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.run(HashedWheelTimer.java:715)
+	at io.netty.util.concurrent.ImmediateExecutor.execute(ImmediateExecutor.java:34)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.expire(HashedWheelTimer.java:703)
+	at io.netty.util.HashedWheelTimer$HashedWheelBucket.expireTimeouts(HashedWheelTimer.java:790)
+	at io.netty.util.HashedWheelTimer$Worker.run(HashedWheelTimer.java:503)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 20:43:01.635 [redisson-timer-6-1] ERROR o.r.c.handler.PingConnectionHandler - Unable to send PING command over channel: [id: 0xd24f958d, L:/192.168.88.102:61680 - R:/117.72.42.243:6379]
+org.redisson.client.RedisTimeoutException: Command execution timeout for command: (PING), params: [], Redis client: [addr=redis://117.72.42.243:6379]
+	at org.redisson.client.RedisConnection.lambda$async$1(RedisConnection.java:207)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.run(HashedWheelTimer.java:715)
+	at io.netty.util.concurrent.ImmediateExecutor.execute(ImmediateExecutor.java:34)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.expire(HashedWheelTimer.java:703)
+	at io.netty.util.HashedWheelTimer$HashedWheelBucket.expireTimeouts(HashedWheelTimer.java:790)
+	at io.netty.util.HashedWheelTimer$Worker.run(HashedWheelTimer.java:503)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 20:43:01.635 [redisson-timer-6-1] ERROR o.r.c.handler.PingConnectionHandler - Unable to send PING command over channel: [id: 0x2dfcc7e7, L:/192.168.88.102:61685 - R:/117.72.42.243:6379]
+org.redisson.client.RedisTimeoutException: Command execution timeout for command: (PING), params: [], Redis client: [addr=redis://117.72.42.243:6379]
+	at org.redisson.client.RedisConnection.lambda$async$1(RedisConnection.java:207)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.run(HashedWheelTimer.java:715)
+	at io.netty.util.concurrent.ImmediateExecutor.execute(ImmediateExecutor.java:34)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.expire(HashedWheelTimer.java:703)
+	at io.netty.util.HashedWheelTimer$HashedWheelBucket.expireTimeouts(HashedWheelTimer.java:790)
+	at io.netty.util.HashedWheelTimer$Worker.run(HashedWheelTimer.java:503)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 20:43:01.636 [redisson-timer-6-1] ERROR o.r.c.handler.PingConnectionHandler - Unable to send PING command over channel: [id: 0xf21e55a1, L:/192.168.88.102:61682 - R:/117.72.42.243:6379]
+org.redisson.client.RedisTimeoutException: Command execution timeout for command: (PING), params: [], Redis client: [addr=redis://117.72.42.243:6379]
+	at org.redisson.client.RedisConnection.lambda$async$1(RedisConnection.java:207)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.run(HashedWheelTimer.java:715)
+	at io.netty.util.concurrent.ImmediateExecutor.execute(ImmediateExecutor.java:34)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.expire(HashedWheelTimer.java:703)
+	at io.netty.util.HashedWheelTimer$HashedWheelBucket.expireTimeouts(HashedWheelTimer.java:790)
+	at io.netty.util.HashedWheelTimer$Worker.run(HashedWheelTimer.java:503)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 20:43:01.636 [redisson-timer-6-1] ERROR o.r.c.handler.PingConnectionHandler - Unable to send PING command over channel: [id: 0x0d5a374f, L:/192.168.88.102:61686 - R:/117.72.42.243:6379]
+org.redisson.client.RedisTimeoutException: Command execution timeout for command: (PING), params: [], Redis client: [addr=redis://117.72.42.243:6379]
+	at org.redisson.client.RedisConnection.lambda$async$1(RedisConnection.java:207)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.run(HashedWheelTimer.java:715)
+	at io.netty.util.concurrent.ImmediateExecutor.execute(ImmediateExecutor.java:34)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.expire(HashedWheelTimer.java:703)
+	at io.netty.util.HashedWheelTimer$HashedWheelBucket.expireTimeouts(HashedWheelTimer.java:790)
+	at io.netty.util.HashedWheelTimer$Worker.run(HashedWheelTimer.java:503)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 20:43:01.636 [redisson-timer-6-1] ERROR o.r.c.handler.PingConnectionHandler - Unable to send PING command over channel: [id: 0x96406e34, L:/192.168.88.102:61688 - R:/117.72.42.243:6379]
+org.redisson.client.RedisTimeoutException: Command execution timeout for command: (PING), params: [], Redis client: [addr=redis://117.72.42.243:6379]
+	at org.redisson.client.RedisConnection.lambda$async$1(RedisConnection.java:207)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.run(HashedWheelTimer.java:715)
+	at io.netty.util.concurrent.ImmediateExecutor.execute(ImmediateExecutor.java:34)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.expire(HashedWheelTimer.java:703)
+	at io.netty.util.HashedWheelTimer$HashedWheelBucket.expireTimeouts(HashedWheelTimer.java:790)
+	at io.netty.util.HashedWheelTimer$Worker.run(HashedWheelTimer.java:503)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 20:43:01.636 [redisson-timer-6-1] ERROR o.r.c.handler.PingConnectionHandler - Unable to send PING command over channel: [id: 0xdf7cffd4, L:/192.168.88.102:61683 - R:/117.72.42.243:6379]
+org.redisson.client.RedisTimeoutException: Command execution timeout for command: (PING), params: [], Redis client: [addr=redis://117.72.42.243:6379]
+	at org.redisson.client.RedisConnection.lambda$async$1(RedisConnection.java:207)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.run(HashedWheelTimer.java:715)
+	at io.netty.util.concurrent.ImmediateExecutor.execute(ImmediateExecutor.java:34)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.expire(HashedWheelTimer.java:703)
+	at io.netty.util.HashedWheelTimer$HashedWheelBucket.expireTimeouts(HashedWheelTimer.java:790)
+	at io.netty.util.HashedWheelTimer$Worker.run(HashedWheelTimer.java:503)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 20:43:01.636 [redisson-timer-6-1] ERROR o.r.c.handler.PingConnectionHandler - Unable to send PING command over channel: [id: 0x205ebb9c, L:/192.168.88.102:61681 - R:/117.72.42.243:6379]
+org.redisson.client.RedisTimeoutException: Command execution timeout for command: (PING), params: [], Redis client: [addr=redis://117.72.42.243:6379]
+	at org.redisson.client.RedisConnection.lambda$async$1(RedisConnection.java:207)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.run(HashedWheelTimer.java:715)
+	at io.netty.util.concurrent.ImmediateExecutor.execute(ImmediateExecutor.java:34)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.expire(HashedWheelTimer.java:703)
+	at io.netty.util.HashedWheelTimer$HashedWheelBucket.expireTimeouts(HashedWheelTimer.java:790)
+	at io.netty.util.HashedWheelTimer$Worker.run(HashedWheelTimer.java:503)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2024-06-29 22:46:16.492 [main] INFO  com.cyy.FinanceAdminApiApplication - Starting FinanceAdminApiApplication using Java 1.8.0_77 on LAPTOP-381P8JMI with PID 43740 (D:\财务软件代码\cyy-finance-admin-api\target\classes started by cyy in D:\财务软件代码\cyy-parent)
+2024-06-29 22:46:16.493 [main] DEBUG com.cyy.FinanceAdminApiApplication - Running with Spring Boot v2.7.4, Spring v5.3.23
+2024-06-29 22:46:16.494 [main] INFO  com.cyy.FinanceAdminApiApplication - The following 1 profile is active: "local"
+2024-06-29 22:46:18.227 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-06-29 22:46:18.228 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2024-06-29 22:46:18.412 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-06-29 22:46:19.889 [main] INFO  c.c.c.c.RedisTemplateDefaultConfig - RedisTemplateConfig init start ...
+2024-06-29 22:46:19.959 [main] INFO  c.c.c.c.RedisTemplateDefaultConfig - RedisTemplateConfig init end
+2024-06-29 22:46:20.235 [main] DEBUG c.c.f.a.a.c.AuthFilterConfig$$EnhancerBySpringCGLIB$$4a2c0db4 - Filter 'authFilterConfig' configured for use
+2024-06-29 22:46:21.122 [main] INFO  org.redisson.Version - Redisson 3.13.6
+2024-06-29 22:46:22.070 [redisson-netty-4-17] INFO  o.r.c.pool.MasterConnectionPool - 10 connections initialized for /117.72.42.243:6379
+2024-06-29 22:46:22.070 [redisson-netty-4-14] INFO  o.r.c.p.MasterPubSubConnectionPool - 1 connections initialized for /117.72.42.243:6379
+2024-06-29 22:46:22.146 [main] INFO  c.c.c.config.WebClientDefaultConfig - WebClientDefaultConfig init start ...
+2024-06-29 22:46:22.238 [main] INFO  c.c.c.config.WebClientDefaultConfig - WebClientDefaultConfig init end
+2024-06-29 22:46:22.526 [main] INFO  com.cyy.commom.config.Swagger3Config - swaggerProperties: SwaggerProperties(enable=true, name=BAGE-FINANCE-ADMIN-API, version=0.0.1, description=BAGE-FINANCE-ADMIN-API 接口文档, pathMapping=null)
+2024-06-29 22:46:22.588 [main] INFO  com.cyy.commom.config.XxlJobConfig - >>>>>>>>>>> xxl-job config init.
+2024-06-29 22:46:23.329 [main] INFO  c.x.job.core.executor.XxlJobExecutor - >>>>>>>>>>> xxl-job register jobhandler success, name:setMpAccessTokenCacheJobHandler, jobHandler:com.xxl.job.core.handler.impl.MethodJobHandler@1530d0f2[class com.cyy.finance.biz.job.WxJobService#setMpAccessTokenCacheJobHandler]
+2024-06-29 22:46:23.468 [Thread-22] INFO  com.xxl.job.core.server.EmbedServer - >>>>>>>>>>> xxl-job remoting server start success, nettype = class com.xxl.job.core.server.EmbedServer, port = 9999
+2024-06-29 22:46:23.520 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 22:46:23.897 [main] INFO  com.cyy.FinanceAdminApiApplication - Started FinanceAdminApiApplication in 7.87 seconds (JVM running for 9.434)
+2024-06-29 22:46:53.528 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 22:47:23.543 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 22:47:53.551 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 22:48:23.559 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 22:48:53.572 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 22:49:23.576 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 22:49:53.598 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 22:50:23.603 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 22:50:53.608 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 22:51:23.629 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 22:51:53.643 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 22:52:23.662 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 22:52:53.719 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 22:53:23.733 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 22:53:53.748 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 22:54:23.764 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 22:54:53.777 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 22:55:23.790 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 22:55:53.803 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 22:56:23.812 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 22:56:53.824 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 22:57:23.829 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 22:57:53.839 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 22:58:23.856 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 22:58:53.869 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 22:59:23.890 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 22:59:53.898 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:00:23.904 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:00:53.921 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:01:23.931 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:01:53.940 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:02:23.955 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:02:53.969 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:03:23.974 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:03:53.983 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:04:23.998 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:04:54.004 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:05:24.016 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:05:54.035 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:06:24.047 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:06:54.054 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:07:24.070 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:07:54.079 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:08:24.098 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:08:54.111 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:09:24.117 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:09:54.123 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:10:24.145 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:10:54.153 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:11:24.168 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:11:54.180 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:12:24.203 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:12:54.210 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:13:24.223 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:13:54.241 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:14:24.251 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:14:54.266 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:15:24.272 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:15:54.286 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:16:24.303 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:16:54.310 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:17:24.322 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:17:54.338 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:18:24.352 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:18:54.358 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:19:24.372 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:19:54.388 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:20:24.403 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:20:54.415 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:21:24.418 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:21:54.427 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:22:24.433 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:22:54.444 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:23:24.450 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:23:54.456 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:24:24.471 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:24:54.488 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:25:24.506 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:25:54.518 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:26:24.533 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:26:54.541 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:27:24.560 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:27:54.567 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:28:24.573 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:28:54.581 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:29:24.597 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:29:54.606 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:30:24.618 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:30:54.622 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:31:24.637 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:31:54.650 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:32:24.699 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:32:54.715 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:33:24.730 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:33:54.736 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:34:24.744 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:34:54.753 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:35:24.771 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:35:54.777 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:36:24.794 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:36:54.806 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:37:24.816 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:37:54.826 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:38:24.830 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:38:54.843 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:39:24.845 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:39:54.859 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:40:24.879 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:40:54.883 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:41:24.901 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:41:54.911 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:42:24.932 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:42:54.947 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:43:24.955 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:43:54.966 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:44:24.975 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:44:54.978 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:45:24.997 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:45:55.025 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:46:25.031 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:46:55.038 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:47:25.056 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:47:55.067 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:48:25.076 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:48:55.086 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:49:25.104 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:49:55.120 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:50:25.123 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:50:55.137 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:51:25.143 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:51:55.158 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:52:25.175 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:52:55.180 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:53:25.196 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:53:55.204 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:54:25.218 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:54:55.234 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:55:25.246 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:55:55.261 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:56:25.272 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:56:55.286 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:57:25.291 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:57:55.307 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:58:25.318 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:58:55.356 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:59:25.367 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
+2024-06-29 23:59:55.386 [xxl-job, executor ExecutorRegistryThread] INFO  c.x.j.c.t.ExecutorRegistryThread - >>>>>>>>>>> xxl-job registry fail, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='cyy-finance-admin-api', registryValue='http://192.168.88.102:9999/'}, registryResult:ReturnT [code=500, msg=The access token is wrong., content=null]
